@@ -26,14 +26,16 @@ header {
 }
 
 .logo {
-    height: 50px;
+    height: 70px; /* Increase the height */
     margin-right: 20px;
     position: absolute;
     left: 20px;
 }
+
 
 h1 {
     font-size: 28px;
     font-weight: bold;
     margin: 0;
 }
+
